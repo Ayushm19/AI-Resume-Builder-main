@@ -5,7 +5,7 @@ the demo link for app : https://ai-resume-builder-main-rho.vercel.app/
 
 the demo link for strapi backend admin panel: https://ai-resume-admin-d97w.onrender.com
 
-I am attaching some screenshots in case your strapi link run out of time to respond.
+I am attaching some screenshots in a folder above in case your strapi link run out of time to respond.
 
 To run the frontend
 ```shell
