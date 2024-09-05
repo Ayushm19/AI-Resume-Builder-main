@@ -3,9 +3,7 @@ strapi is used for backend, I deployed it on render it might take long to load t
 
 the demo link for app : https://ai-resume-builder-main-rho.vercel.app/
 
-the demo link for strapi backend admin panel: https://ai-resume-admin-d97w.onrender.com
-
-I am attaching some screenshots in a folder above in case your strapi link run out of time to respond.
+I am attaching some screenshots in a folder above in case your strapi link run out of time to respond as it is deployed on render and sometimes it goes in sleep and take forever to load.
 
 To run the frontend
 ```shell
